@@ -1,1 +1,1 @@
-# learninggo
+# Exercícios do livro Learning Go
